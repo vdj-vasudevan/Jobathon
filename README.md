@@ -1,5 +1,5 @@
-# Jobathon
-Forecast Green Energy  
+# Forecast Green Energy  
+
 Approach:
 Steps carried:
 1.	Importing the Data:
