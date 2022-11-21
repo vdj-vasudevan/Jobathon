@@ -14,6 +14,7 @@ Univariant Analysis with the Datetime Column w.r.t Energy Consumption
 
 4.	Feature Engineering:
        	Created Many Features from Datetime Column like
+<ul>
 •	Year: Year 
 •	Month: Month 
 •	Day: Day 
@@ -39,7 +40,7 @@ Univariant Analysis with the Datetime Column w.r.t Energy Consumption
 •	off_hour: off hour (3,4,5 min energy consumption if yes:1 else:0)
 •	3hour_interval: dividing 3hour interval (representing [0-3,4-6,7-9,10-12,13-15,16-18,19-21,22-24])
 •	6hour_interval: dividing 6hour interval (representing [0-6,7-12,13-18,19-24])
-
+</ul>
 
 5.	Model Selection/Model Training:
 Used XG Booster model: Trained model with Evaluation matrix RMSE
