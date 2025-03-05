@@ -1,4 +1,5 @@
 # Forecast Green Energy  
+![image](https://github.com/user-attachments/assets/77acdccc-2549-4662-82d4-868ec2ddf762)
 
 Approach:
 Steps carried:
